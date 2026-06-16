@@ -1,1 +1,0 @@
-chessboard-0.3.0.min.js

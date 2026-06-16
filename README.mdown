@@ -1,5 +1,0 @@
-# Bobby
-
-A freechess.org (FICS) client.
-
-This is Alpha quality software.
